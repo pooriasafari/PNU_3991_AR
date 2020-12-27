@@ -12,11 +12,6 @@
 - [GitHub](https://github.com/pooriasafari)
 - [Certificates](https://pooriasafari.github.io/Certificates/)
 ------------------
-## گروه ها
-
-1. G-A01
-
-
 
 ## دروس ارشد
 
