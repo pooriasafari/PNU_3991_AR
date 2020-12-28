@@ -8,7 +8,7 @@
 # پوریا صفری
 - [PNU_3991_AR](https://github.com/pooriasafari/PNU_3991_AR)
 - [Resume](https://pooriasafari.github.io/) 
-- [SOP](https://pooriasafari.github.io/Sop/)
+- [SOP](https://pooriasafari.github.io/SOP/)
 - [GitHub](https://github.com/pooriasafari)
 - [Certificates](https://pooriasafari.github.io/Certificates/)
 ------------------
