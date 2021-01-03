@@ -15,13 +15,13 @@
 
 ## دروس ارشد
 
-- [1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/24/)
+- [1115280_01	معماري نرم افزار	3]
 <br>
-- [1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/24_پوريا صفري)
+- [1115282_01	متدولوژي ايجاد نرم افزار	3]
 <br>
-- [1115029_02	سمينار	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115029_02/12_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
+- [1115029_02	سمينار	2]
 <br>
-- [1115029_02	سمینار و تتبع	2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar/1115257_03/10_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
+- [1115029_02	سمینار و تتبع	2]
 --------------
 ## روز و ساعت ارائه دروس
 
