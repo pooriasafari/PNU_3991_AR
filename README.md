@@ -15,7 +15,7 @@
 
 ## دروس ارشد
 
-- [1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
+- [1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/24/)
 <br>
 - [1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
 <br>
