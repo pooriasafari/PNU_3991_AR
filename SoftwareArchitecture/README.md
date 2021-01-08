@@ -13,11 +13,16 @@
 - [Certificates](https://pooriasafari.github.io/Certificates/)
 ------------------
 
+## Template Method Pateern In Java Script
 
+- [Template Method In JS ](https://drive.google.com/file/d/1jSsPWNIjr4SoV2QXtjrkVQkl4o794WTY/view?usp=sharing)
+
+
+----------------
 
 ## CHAPTER 8_Analysis_Techniques
 
-- [Analysis_Techniques - ATAM ](https://drive.google.com/file/d/1jSsPWNIjr4SoV2QXtjrkVQkl4o794WTY/view?usp=sharing)
+- [Analysis_Techniques - ATAM ](https://drive.google.com/file/d/1Qo9DjzQ_GQ1V0TkCsmuRgYV7LzftWDLp/view?usp=sharing)
 
 
 ----------------
