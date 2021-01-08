@@ -23,7 +23,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/pooriasafari/PNU_3991_AR/blob/master/_General/PS_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/pooriasafari/PNU_3991_AR/blob/master/_General/ps_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/pooriasafari/PNU_3991_AR/blob/master/_General/PS_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/pooriasafari/PNU_3991_AR/blob/master/_General/PS_SoftwareArchitecture_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_سمینار]()
 - [خلاصه ارزیابی درس_سمینار و تتبع]()
