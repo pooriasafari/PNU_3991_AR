@@ -1,7 +1,7 @@
-# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
+# [PNU_3991_AR](https://github.com/pooriasafari/PNU_3991_AR)
 
 <div dir="rtl">
- 
 
 # PNU_3991_AR
 ---------
@@ -12,27 +12,14 @@
 - [GitHub](https://github.com/pooriasafari)
 - [Certificates](https://pooriasafari.github.io/Certificates/)
 ------------------
-## سیاهه ارزشیابی درس
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
 
-2. **ها با جاوا اسکریپت paternپیاده سازی** 
 
-    - **G-SA-02** : Composite pattern + Decorator pattern + Façade pattern + Flyweight pattern + Proxy pattern + Template Method + Mediator
 
-3.  **ارائه کتاب**
-   - هر گروه 2 فصل از کتاب ریچارد
-        
-        ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
-  
+## CHAPTER 8_Analysis_Techniques
 
-   - **G-SA-02** : Chapter 2 + Chapter 8 
+- [Analysis_Techniques - ATAM ](https://drive.google.com/file/d/1jSsPWNIjr4SoV2QXtjrkVQkl4o794WTY/view?usp=sharing)
+
+
 ----------------
 ## گروه ها
 
@@ -44,6 +31,6 @@
     1. [_SA-22زهرا صالح زاده_Proxy pattern](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/22_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87) 
      1. [_SA-24پوریا صفری_Template pattern](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A) 
      1. [_SA-26مهتاب محمد_Mediator pattern](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/26_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF) 
-    
-	 
-</div> 
+        
+
+</div>
