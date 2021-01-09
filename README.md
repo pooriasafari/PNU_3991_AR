@@ -36,7 +36,8 @@
 [1115280_01	معماري نرم افزار	3](https://github.com/pooriasafari/PNU_3991_AR/tree/master/SoftwareArchitecture)
 <br>
 [1115029_02	سمينار	2](https://github.com/pooriasafari/PNU_3991_AR/tree/master/MscSeminar-1)
-
+<br>
+[1115029_02	سمينار و تتبع	3](https://github.com/pooriasafari/PNU_3991_AR/tree/master/MscSeminar-1)
 
 
 --------------
