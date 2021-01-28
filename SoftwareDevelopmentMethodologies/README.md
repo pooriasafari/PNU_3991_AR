@@ -23,6 +23,7 @@
 ## روخوانی - Chapter 4 - Page 111 to 117 
 
 - [روخوانی - Chapter 4 - Page 111 to 117](https://drive.google.com/file/d/12KXViXHelBpyPrkErSq47sbGtT81bJc0/view?usp=sharing)
+- [خلاصه برداشت](https://drive.google.com/file/d/1g_TYhxcsN2tEXxVKptyVRU2eH1doz_DY/view?usp=sharing)
 
 
 ----------------
